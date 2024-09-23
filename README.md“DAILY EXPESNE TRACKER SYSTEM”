@@ -1,0 +1,23 @@
+“DAILY EXPESNE TRACKER SYSTEM”
+
+=>Introduction:
+Daily Expense Tracker System is designed to keep a track of Income-Expense
+an organisation on a day-to-day basis. This System divides the Income based
+On Daily Expenses. If exceed day’s expense, system will calculate income and
+will provide new daily expense allowed amount.
+Daily expense tracking System will generate report at the end of And
+employees send reports Like On (Pdf,Print).
+In this application, user can provide his income to calculate his total
+expenses per day and these results will be stored for each user.
+The application has the provision to predict the income and expense for the
+manager using data mining.
+The expense tracker will help any organization to deal with all their
+expenses more efficiently. By using software for managing tracking
+will help to control unnecessary expenses.
+
+
+=> install XAMPP
+=> Database Name : dets_db
+=> Improt And Export
+
+
